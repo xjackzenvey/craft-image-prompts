@@ -1,0 +1,4 @@
+interface:
+  display_name: "图像提示词导演"
+  short_description: "把模糊创意改写为结构清晰、画面可控、可直接生成的图像提示词"
+  default_prompt: "Use $craft-image-prompts to turn my visual idea into a precise image-generation prompt."
